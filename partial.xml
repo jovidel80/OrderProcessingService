@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <tactividad idActividad="2222" idUsuario="1" nombre="jovi" descripcion="desc" lugar="new york" fechaHoraInicio="2016-08-09 00:00:00.0" fechaHoraFin="2016-08-16 00:00:00.0" estado="true" fechaRegistro="2016-08-01 00:00:00.0" fechaModificacion="2016-08-01 00:00:00.0"/>
+</dataset>

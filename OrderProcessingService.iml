@@ -19,5 +19,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="org.dbunit:dbunit:2.5.3" level="project" />
+    <orderEntry type="library" name="org.hsqldb:hsqldb:2.3.4" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-5.1.38-bin" level="project" />
   </component>
 </module>
